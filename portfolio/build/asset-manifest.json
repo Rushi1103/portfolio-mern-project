@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cbc5e57.css",
+    "main.js": "/static/js/main.f5fdb74e.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/Rushikesh Handore.pdf": "/static/media/Rushikesh Handore.c81d221d9e7455b3cf07.pdf",
+    "static/media/photo.jpg": "/static/media/photo.e9c3028697a3daf97daa.jpg",
+    "index.html": "/index.html",
+    "main.6cbc5e57.css.map": "/static/css/main.6cbc5e57.css.map",
+    "main.f5fdb74e.js.map": "/static/js/main.f5fdb74e.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbc5e57.css",
+    "static/js/main.f5fdb74e.js"
+  ]
+}
